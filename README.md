@@ -1,6 +1,7 @@
 # Chance-of-Admit
-This project aims to predict the price of mobile phones using regression and decision tree algorithms. The dataset contains various features of mobile phones, and the target variable is the price.
+This project aims to predict the chance of admission of students into graduate programs based on various features such as GRE score, TOEFL score, university rating, SOP, LOR, CGPA, research experience, etc. Using Decision Tree Regression, we aim to build a model that can accurately predict the likelihood of admission.
 
+Decision Tree Regression - Scikit Learn
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
@@ -10,3 +11,5 @@ This project aims to predict the price of mobile phones using regression and dec
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [License](#license)
+
+Introduction
