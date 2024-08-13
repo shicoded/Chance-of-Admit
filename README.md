@@ -11,7 +11,7 @@ Decision Tree Regression - Scikit Learn
 - [Conclusion](#conclusion)
 - [Usage](#usage)
 - [License](#license)
-  
+- [Contact](#contact)
 **********
 ## Dataset
 The data set of graduate programshas in this repository above. you can download it and use.
@@ -79,3 +79,8 @@ You can use development environments like VS Code, Jupyter Notebook, or Google C
 
 ## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contact
+
+For any questions or to get in touch, feel free to contact me via email at 12shim73@gmail.com or on LinkedIn: [Shima Soleymanipour](https://linkedin.com/in/shima-soleymanipour).
