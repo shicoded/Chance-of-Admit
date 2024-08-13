@@ -44,13 +44,15 @@ On the right branch, students with a CGPA between 9.225 and 9.465 have a higher 
 
 **Advantages:**
 
-Easy to Understand: The tree-like structure is intuitive and can be easily visualized.
-Non-linear Relationships: Decision Trees can capture non-linear relationships between features and the target variable.
+`Easy to Understand:`The tree-like structure is intuitive and can be easily visualized.
+
+`Non-linear Relationships:` Decision Trees can capture non-linear relationships between features and the target variable.
 
 **Limitations:**
 
-Overfitting: Trees can become overly complex and overfit the data, especially if not pruned or regularized.
-Instability: Small changes in the data can result in a completely different tree structure.
+`Overfitting:` Trees can become overly complex and overfit the data, especially if not pruned or regularized.
+
+`Instability:` Small changes in the data can result in a completely different tree structure.
 
 ***********
 
@@ -60,5 +62,20 @@ This Decision Tree model uses CGPA and GRE scores to predict the likelihood of s
 
 
 ***********
+## Usage
 
+To get started with this project, ensure you have Python 3 installed. Clone the repository and install the required dependencies:
+
+1. Clone the repository
+  
+2. Install dependencies:
+
+`pip install -r requirements.txt`
+
+3. Development Environments:
+
+You can use development environments like VS Code, Jupyter Notebook, or Google Colab to run and edit the project.
+*****
+
+## License
 
