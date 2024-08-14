@@ -23,6 +23,9 @@ The data set of graduate programshas in this repository above. you can download 
   
 A Decision Tree is a supervised machine learning algorithm used for classification and regression tasks. It models decisions in a tree-like structure, where each internal node represents a test or decision on a feature, each branch represents the outcome of the decision, and each leaf node represents a final prediction or output.
 
+![image](https://github.com/user-attachments/assets/b4d8ac89-e3e3-4517-b508-b87d186dccb0)
+
+
 This image shows a Decision Tree Regression model that predicts the likelihood of a student's admission into a graduate program based on certain features, most prominently CGPA (Cumulative Grade Point Average) and GRE score.
 
 **How It Works in example:**
